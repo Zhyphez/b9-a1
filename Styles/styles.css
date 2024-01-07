@@ -122,3 +122,33 @@ h1 {
     font-weight: 600;
     background-color: rgba(167, 238, 238, 0.308);
 }
+
+/*shop*/
+
+.shop{
+    border: 0;
+    margin-left: 150px;
+    margin-top: 90px;
+}
+
+.gifts{
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.shop-title{
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.shop-info{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.Rectangle-img{
+    border: 0;
+    margin: 30px;
+    margin-right: 426.7px;
+    margin-left: 30px;
+}
