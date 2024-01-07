@@ -83,8 +83,8 @@ h1 {
 
 }
 
-.btn{ 
-    background-color:rgba(255, 255, 255, 0) ;
+.btn {
+    background-color: rgba(255, 255, 255, 0);
     color: rgba(255, 255, 255, 1);
     font-size: 20px;
     font-weight: 700;
@@ -96,7 +96,7 @@ h1 {
     transform: translate(-50%, -50%);
 }
 
-.btn:hover{
+.btn:hover {
     background-color: rgba(169, 169, 169, 0.274);
 }
 
@@ -108,16 +108,15 @@ h1 {
     position: relative;
 }
 
-.map{
+.map {
     list-style-type: none;
-    border: 1px 
-    box-sizing: border-box;
+    border: 1px box-sizing: border-box;
     padding: 40px;
     text-align: center;
     margin-top: 70px;
 }
 
-.info-header{
+.info-header {
     font-size: 32px;
     font-weight: 600;
     background-color: rgba(167, 238, 238, 0.308);
@@ -125,30 +124,109 @@ h1 {
 
 /*shop*/
 
-.shop{
+.shop {
     border: 0;
     margin-left: 150px;
     margin-top: 90px;
 }
 
-.gifts{
+.gifts {
     font-size: 24px;
     font-weight: 500;
 }
 
-.shop-title{
+.shop-title {
     font-size: 48px;
     font-weight: 900;
 }
 
-.shop-info{
+.shop-info {
     font-size: 20px;
     font-weight: 400;
 }
 
-.Rectangle-img{
+.Rectangle-img {
     border: 0;
     margin: 30px;
     margin-right: 426.7px;
     margin-left: 30px;
 }
+
+/*ending*/
+
+.news-letter {
+    border: 0;
+    margin-top: 150px;
+}
+
+.news-letter-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.letter {
+    text-align: center;
+}
+
+.letter-para {
+    text-align: center;
+}
+
+.input {
+    border: 0;
+    margin-left: 800px;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.mail {
+    border: 0;
+    font-size: 20px;
+}
+
+.sub {
+    border: 0;
+    border-radius: 0px 50px 50px 0px;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+}
+
+.foot-head{
+    background-color: #01011f;
+}
+
+.foot {
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+.head-1 {
+    border: 0;
+    margin-left: 100px;
+}
+
+.head-2 {
+    border: 0;
+    margin-right: 100px;
+}
+
+.call {
+    border: 0;
+    margin-right: 10px;
+}
+
+.web {
+    border: 0;
+    margin-right: 10px;
+}
+
+.social{
+    border: 2px solid black;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
+
