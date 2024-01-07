@@ -206,11 +206,13 @@ h1 {
 .head-1 {
     border: 0;
     margin-left: 100px;
+    margin-top: 50px;
 }
 
 .head-2 {
     border: 0;
     margin-right: 100px;
+    margin-top: 50px;
 }
 
 .call {
@@ -230,3 +232,19 @@ h1 {
     align-items: center;
 }
 
+.copy-right{
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+
+.copy{
+    border: 0;
+    margin: 100px;
+}
+
+.right{
+    border: 0;
+    margin-right: 100px;
+    margin-top: 90px;
+}
