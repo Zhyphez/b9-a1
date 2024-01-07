@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(243, 241, 238)
+    background-color: rgb(236, 225, 208)
 }
 
 
@@ -60,7 +60,32 @@ h1 {
     font-weight: 700;
 }
 
-.newyear{
+.newyear {
     border: 0;
     margin-left: 600px;
+    width: 802.9px;
+    height: 500px;
+}
+
+/*main section*/
+
+.invite {
+    font-size: 15px;
+    font-weight: 50;
+    border: 0;
+    margin-top: 250px;
+    color: whitesmoke;
+}
+
+.invite-info {
+    margin-bottom: 550px;
+    margin-left: -25%;
+
+}
+
+.background-invite {
+    border: 0;
+    margin-top: 120px;
+    margin-left: 300px;
+    filter: brightness(55%);
 }
